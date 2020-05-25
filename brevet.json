@@ -1,15 +1,17 @@
 {
-"nodes":[
-{"node":99,"name":"dépôt"},
-{"node":0,"name":"brevet FR prioritaire"},
-{"node":1,"name":"extension PCT"},
-{"node":2,"name":"annuités"},
-{"node":3,"name":"EP"}
-],
-"links":[
-{"source":99,"target":0,"value":4744},
-{"source":0,"target":2,"value":8172},
-{"source":0,"target":1,"value":5448},
-{"source":1,"target":3,"value":5 103}
-
-]}
+    "nodes":[
+    {"node":0,"name":"node0"},
+    {"node":1,"name":"node1"},
+    {"node":2,"name":"node2"},
+    {"node":3,"name":"node3"},
+    {"node":4,"name":"node4"}
+    ],
+    "links":[
+    {"source":0,"target":2,"value":2},
+    {"source":1,"target":2,"value":2},
+    {"source":1,"target":3,"value":2},
+    {"source":0,"target":4,"value":2},
+    {"source":2,"target":3,"value":2},
+    {"source":2,"target":4,"value":2},
+    {"source":3,"target":4,"value":4}
+    ]}
