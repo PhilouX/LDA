@@ -1,0 +1,12 @@
+{
+"nodes":[
+{"node":0,"name":"dépôt prioritaire"},
+{"node":1,"name":"brevet FR prioritaire"},
+{"node":2,"name":"extension PCT"},
+{"node":3,"name":"annuités"}
+],
+"links":[
+{"source":0,"target":1,"value":4744},
+{"source":0,"target":2,"value":5448},
+{"source":1,"target":3,"value":8549}
+]}
