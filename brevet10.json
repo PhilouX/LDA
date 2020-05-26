@@ -1,0 +1,27 @@
+{
+"nodes":[
+{"node":0,"name":"dépôt prioritaire"},
+{"node":1,"name":"brevet FR prioritaire"},
+{"node":2,"name":"extension PCT"},
+{"node":3,"name":"annuités"},
+{"node":4,"name":"SG"},
+{"node":5,"name":"divisionnaire"},
+{"node":6,"name":"rapport de recherche"},
+{"node":7,"name":"LO"},
+{"node":8,"name":"délivrance"},
+{"node":9,"name":"Singapour"}
+],
+"links":[
+{"source":0,"target":1,"value":474},
+{"source":0,"target":2,"value":544},
+{"source":1,"target":3,"value":854},
+{"source":2,"target":4,"value":132},
+{"source":4,"target":5,"value":282},
+{"source":5,"target":6,"value":409},
+{"source":6,"target":7,"value":604},
+{"source":7,"target":8,"value":740},
+{"source":8,"target":3,"value":2772},
+{"source":3,"target":9,"value":2772}
+
+
+]}
